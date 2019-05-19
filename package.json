@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "assert": "^2.0.0",
+    "bluebird": "^3.5.4",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "nodeify": "^1.0.1",
+    "require": "^2.4.20",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "webdriver": "^5.8.3",
+    "yarn": "^1.16.0"
+  }
+}
